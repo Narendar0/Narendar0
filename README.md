@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Mern Stack Projects**
 
-- 🌱 I’m currently learning **React, Nodejs, Expressjs , MongoDb**
+- 🌱 I’m currently learning **React, Nodejs, Expressjs , MongoDb , Nextjs , NextAuth**
 
 - 👨‍💻 All of my projects are available at [https://narendraprasaths.netlify.app/](https://narendraprasaths.netlify.app/)
 
